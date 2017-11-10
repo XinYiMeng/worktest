@@ -17,7 +17,7 @@ int fun2(int a2, int b2)
 
 int main()
 {
-	int a = 1;
+	int a = 21;
 	int b = 2;
 	printf("fun1=%d\n",fun1(a,b));
 	return 0;
